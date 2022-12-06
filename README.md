@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 📝 I regularly write articles on [https://medium.com/@jatin_lanje](https://medium.com/@jatin_lanje)
+- 📝 I write articles on [https://medium.com/@jatin_lanje](https://medium.com/@jatin_lanje)
 
 - 📫 How to reach me **j3lanje@gmail.com**
 
