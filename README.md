@@ -1,6 +1,6 @@
 <h3 align="center">🙋🏻 Hi there! I'm Jatin</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatin-lanje/">Linkedin</a>
+  I am currently learning Advance Data Structures & Algorithms and System Design.
 </p>
 
 ---
