@@ -1,7 +1,6 @@
 <h3 align="center">🙋🏻 Hi there! I'm Jatin</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatin-lanje/">Linkedin</a> •
-  <a href="https://www.medium.com/@jatin_lanje/">Medium</a>   
+  <a href="https://www.linkedin.com/in/jatin-lanje/">Linkedin</a>
 </p>
 
 ---
