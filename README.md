@@ -4,8 +4,6 @@
 </p>
 
 ---
-<!--h4 align="center">A Back-End Developer skilled in Java with a knack for Data Structures and Algorithms.</h4-->
-
 
 <p align="center">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
