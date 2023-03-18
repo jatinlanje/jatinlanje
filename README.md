@@ -1,6 +1,6 @@
 <h3 align="center">🙋🏻 Hi there! I'm Jatin</h3>
 <p align="center">
-  I am currently learning Advance Data Structures & Algorithms and System Design.
+  I am currently learning Advance Data Structures & Algorithms, Backend Engineering and System Design.
 </p>
 
 ---
